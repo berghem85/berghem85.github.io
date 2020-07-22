@@ -1,0 +1,22 @@
+body {
+  background-color: yellow;
+  font-family: Arial, Helvetica, sans-serif;
+}
+/** alle links sollen schwartz werden */
+a {
+  color: black;
+  text-transform: uppercase;
+  text-decoration: none;
+  font-weight: bold;
+}
+/* die liste sollen keine bulletpoints haben */
+ul {
+  list-style-type: none;
+}
+
+/* der knopf soll transparent sein und keine rahmen haben */
+
+button {
+  background-color: transaprent;
+  border: none; 
+}
